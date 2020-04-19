@@ -21,17 +21,7 @@ class MyString{
 	}
 
 	ucWords(s){
-		// var x = ' хуй';
-		// var sr = s.split('');
-
-		// // let res = s.search(/\s./g);
-		// // // var val = Number.parseInt(res);
-		// // // console.log(val);
-		// // sr[res+1] = sr[res+1].toUpperCase();
-		// // // let str = s.replace(/(\s.)/, x);
-
-		// console.log(res);
-		// console.log(sr.join(''));
+		
 
 		var str = s.split(/\s+/);
 
